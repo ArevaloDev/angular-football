@@ -11,7 +11,6 @@ import { HttpClientModule } from '@angular/common/http';
     RouterOutlet,
     HttpClientModule,
     HomeComponent,
-    NavbarComponent
 ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
